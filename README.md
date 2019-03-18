@@ -13,3 +13,5 @@
 kaggle 入门必看 ：http://www.360doc.com/content/18/0106/16/44422250_719580875.shtml
 
 kaggle 比赛：第二个 房价预测相对好的例子  https://www.kaggle.com/marsggbo/kaggle
+
+对面试和笔试有帮助的  https://blog.csdn.net/u012469528/article/details/78646171
