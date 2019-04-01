@@ -8,6 +8,8 @@
 
 机器学习系列 ：https://blog.csdn.net/han_xiaoyang/article/details/49123419
 
+机器学习基石笔记：https://blog.csdn.net/red_stone1/column/info/23475/2
+
 机器学习实例： https://zhuanlan.zhihu.com/zhaoyeyu
 
 kaggle 入门必看 ：http://www.360doc.com/content/18/0106/16/44422250_719580875.shtml
