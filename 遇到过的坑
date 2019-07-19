@@ -17,3 +17,11 @@ sess.run(tf.global_variables_initializer())
 
 
 3. leftImage = srcImage[y1:(y2), x1:(x2)]
+
+
+4. tkinter 中butter label 组件时设置绝对坐标为 
+bt = tf.Butter(,,,)
+bt.place(x= , y = )
+相对位置为：
+bt.place(relx = 1,rely = 0.5)
+#relx,rely指定组件放置的绝对位置,范围为(0-1.0)
