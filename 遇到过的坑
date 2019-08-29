@@ -1,4 +1,4 @@
-1. 当运行时出现  变量已经存在了两次的时候  secondary runs where the variable already exists
+1. 当运行测试时，我们需要加载数据。发生错误 变量已经存在了两次的时候  secondary runs where the variable already exists
 
 解决： 创建回话的后面加上  tf.get_variable_scope().reuse_variables()  #Prevent secondary runs where the variable already exists
 改句子可以再次加载数据，就能使变量重复使用不再次定义。
